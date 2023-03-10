@@ -1,0 +1,46 @@
+.por{
+    text-align: center;
+    color: aqua;
+}
+html{
+    background-color: blue;
+}
+#bol{
+    
+    margin: 0%;
+    background-color: aquamarine;
+    width: 300px;
+
+}
+.id{
+    font-size: large;
+    text-align: center;
+  
+    color: aqua;
+    padding: 0px 300px 0px 300px;
+}
+.cl{
+    color: aqua;
+    text-align: center;
+}
+.ss{
+    font-size: large;
+    color: aquamarine;
+    padding: 0px 300px 0px 300px;
+}
+.a:hover{
+    background-color: red;
+
+}
+.b:hover{
+    background-color: red;
+
+}
+.c:hover{
+    background-color: red;
+
+}
+.d:hover{
+    background-color: red;
+
+}
